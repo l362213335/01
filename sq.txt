@@ -1,0 +1,48 @@
+﻿{
+ "urls":[
+  {
+   "name": "福康电脑",
+   "url": "https://atomgit.com/yqw1234/tvbox/raw/master/福康天下.json"
+  },
+  {
+   "name": "福康天下",
+   "url": "https://atomgit.com/yqw1234/tvbox/raw/master/FKDN.json"
+},
+  {
+   "name": "荷城茶秀❤心动仓库",
+   "url": "https://pan.shangui.cc/f/5PowIA/荷城茶秀.txt"
+  },
+  {
+   "name": "天天开心",
+   "url": "http://www.ttkx.site/天天开心.json"
+  },
+    {
+   "name": "春盈天下",
+   "url": "https://wds.ecsxs.com/230989.json"
+  },
+  {
+   "name": "福利接口1",
+   "url": "https://atomgit.com/yqw1234/tvbox/raw/master/福利接口2.txt"
+  },
+  {
+   "name": "福利接口2",
+   "url": "https://atomgit.com/yqw1234/tvbox/raw/master/福利接口3.txt"
+  },
+  {
+   "name": "4K高清",
+   "url": "https://d.kstore.space/download/6421/4K高清.txt"
+  },
+  {
+   "name": "今晚摸鱼",
+   "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json"
+  },
+  {
+   "name": "运输车VIP",
+   "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json"
+  },
+  {
+   "name": "熊猫不叫猫",
+   "url": "https://codeberg.org/xmbjm/xmbjmjk/raw/branch/main/vip4k.json"
+  }]}
+
+
